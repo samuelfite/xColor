@@ -1,0 +1,39 @@
+! Sams Theme 2.0 {{{
+
+! special
+*.foreground:   #ffffff
+*.background:   #222222
+*.cursorColor:  #a2a2a2
+
+! black
+*.color0:       #dedede
+*.color8:       #769a97
+
+! red
+*.color1:       #a9635d
+*.color9:       #ffbbb2
+
+! green
+*.color2:       #468459
+*.color10:      #6ea47d
+
+! yellow
+*.color3:       #84763d
+*.color11:      #e0ce91
+
+! blue
+*.color4:       #5879af
+*.color12:      #b3d1ff
+
+! magenta
+*.color5:       #9c6594
+*.color13:      #fabdf0
+
+! cyan
+*.color6:       #008592
+*.color14:      #629ba2
+
+! white
+*.color7:       #e3ead1
+*.color15:      #ffffff
+!}}}

@@ -1,0 +1,39 @@
+! MONOKAI imp{{{
+ http://web.archive.org/web/20090130061234/http://phraktured.net/terminal-colors/
+! special
+*.foreground:   #f1ebeb
+*.background:   #222222
+*.cursorColor:  #f1ebeb
+
+! black
+*.color0:       #48483e
+*.color8:       #76715e
+
+! red
+*.color1:       #dc2566
+*.color9:       #fa2772
+
+! green
+*.color2:       #8fc029
+*.color10:      #24bf7f
+
+! yellow
+*.color3:       #64c858
+*.color11:      #e7db75
+
+! blue
+*.color4:       #51b2c3
+*.color12:      #4da3b3
+
+! magenta
+*.color5:       #9358fe
+*.color13:      #ae82ff
+
+! cyan
+*.color6:       #56b7a5
+*.color14:      #5bd4bd
+
+! white
+*.color7:       #ffffff
+*.color15:      #f1f97d
+!}}}
